@@ -1,0 +1,41 @@
+body {
+    background-color: #242929;
+  font-family: Calibri;
+    background-size: 1300px 800px
+}
+  
+  .menu {
+    background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+   
+} 
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+  
+  .menu li {
+    list-style: none;
+}
+  
+  a { 
+    color: white;
+    text-decoration: none;
+}
+  
+  a:hover {
+    text-decoration: underline;  
+}
+  
+  .site-title {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    appearance:activeborder
+}
+  
+  .site-subtitle {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
