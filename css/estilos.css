@@ -30,7 +30,6 @@ header {
 
 .menu {
   background: none;
-  background-;
   position: fixed;
   width: 100vw;
   top: 0;
@@ -50,7 +49,7 @@ header {
 a { 
   color: white;
   text-decoration: none;  
-  font-size: 1.6em;
+  font-size: 1.6em; 
 }
 
 a:hover {
@@ -60,21 +59,19 @@ a:hover {
 .site-title {
   text-align: center;
   color: white;
-  font-family: cursive;
   text-align: center;
-  font-size: 3.0em;
+  font-size: 3.5em;
 }
 
 .site-subtitle {
   color: white;
   text-align: center;
-  font-family: cursive;
-  font-size: 2.0em;
+  font-size: 2.5em;
 }
 
 .img-Redes {
   height:150px;
-  width:180px;
+  width:110px;
   display: flex;
 }
 
@@ -87,16 +84,17 @@ section {
 
 .background {
     position: fixed;
-    height: 100vh;
+    height: 110vh;
     width: 100vw; 
     z-index: -1; 
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cover;
-    background-size: 1400px 900px;
+    background-size: 1500px 900px;
   }
 
-  .about {
-text-align: center;
-justify-content: center;
-  }
+.about {
+ text-align: center;
+ justify-content: center;  
+ font-size: 1.2em;
+}
