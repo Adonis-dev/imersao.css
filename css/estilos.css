@@ -136,11 +136,15 @@ section {
 }
 
 .coração {
- margin-bottom: 2.6em;
+ margin-bottom: 1.0em;
  }
 
  .about2 {
  padding: 1.9em;
+ }
+
+ .about3 {
+   margin-bottom: 3.8em;
  }
 
 .contato .icons {
@@ -159,10 +163,6 @@ transition: text-shadow 1s;
    text-shadow: 0px 0px 10px rgb(255, 255, 255);
  }
 
- .discord,
- .twitter,
- .youtube,
- .github {
-   font-size: 24px;
-   justify-content: space-around;
- }
+.aviao {
+  margin-bottom: 0.8em;
+}
